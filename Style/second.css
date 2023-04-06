@@ -1,0 +1,41 @@
+body{
+    background-color: lightblue;
+}
+
+#headerTitle{
+    text-align: center;
+}
+fieldset{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 200px;
+    width: 500px;
+    margin: auto;
+    justify-content: space-between;
+}
+p{
+    background-color: white;
+    border: solid black 3px;
+    color: blue;
+    width: 300px;
+}
+h2{
+    background-color: lightblue;
+    font-size: xx-large;
+    color: azure;
+    width: 300px;
+}
+h1{
+    background-color: lightblue;
+    font-size: xx-large;
+    margin-left: 610px;
+    color: azure;
+    width: 300px;
+}
+div{
+    display: flex;
+    flex-wrap: wrap;
+    height: 600px;
+    flex-direction: column;
+}

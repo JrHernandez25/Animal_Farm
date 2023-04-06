@@ -1,0 +1,68 @@
+body{
+    background-color: lightblue;
+}
+img{
+    margin: auto;
+    width: 120px;
+    height: 120px;
+    display: block;
+    border-radius: 170%;
+}
+#h1{
+    font-size: xx-large;
+    text-align: center;
+    margin-left: 625px;
+    margin-top: 2%;
+    background-color: lightblue;
+    color: white;
+    margin-bottom: 2%;
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr 5fr 1fr;
+}
+#function{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+#cats{
+    justify-self: center;
+}
+#dogs{
+    justify-self: center;
+}
+#sheeps{
+    justify-self: center;
+}
+#horses{
+    justify-self: center;
+}
+#make-cat{
+    padding: 50px;
+    border: solid white 2px;
+    border-radius: 70%;
+}
+#make-dog{
+    padding: 50px;
+    border: solid white 2px;
+    border-radius: 70%;
+}
+#make-sheep{
+    padding: 50px;
+    border: solid white 2px;
+    border-radius: 70%;
+}
+#make-horse{
+    padding: 50px;
+    border: solid white 2px;
+    border-radius: 70%;
+}
+li{
+    margin-top: 2%;
+}
+h1{
+    font-size: xx-large;
+    background-color: aquamarine;
+    color: azure;
+    width: 300px;
+}
